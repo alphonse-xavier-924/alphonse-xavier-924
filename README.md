@@ -90,7 +90,7 @@
 <p align="left">Hi there! I'm Alphonse Xavier, a Master's student in Computer Science at Clark University. As a passionate software developer and RPA enthusiast, I thrive on solving problems, coding, and debugging. Every day is a new adventure in learning, and I'm excited to embrace the challenges that come my way!
 
 My profiles:
-GitHub - https://github.com/alphonse-xavier-924
+LinkedIn - https://www.linkedin.com/in/alphonse-xavier/
 LeetCode - https://leetcode.com/u/alphonse_xavier/</p>
 
 ###
