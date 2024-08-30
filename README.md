@@ -87,11 +87,11 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Hi there! I'm Alphonse Xavier, a Master's student in Computer Science at Clark University. As a passionate software developer and RPA enthusiast, I thrive on solving problems, coding, and debugging. Every day is a new adventure in learning, and I'm excited to embrace the challenges that come my way!
 
-###
-
-<img src="https://raw.githubusercontent.com/alphonse-xavier-924/alphonse-xavier-924/output/snake.svg" alt="Snake animation" />
+My profiles:
+GitHub - https://github.com/alphonse-xavier-924
+LeetCode - https://leetcode.com/u/alphonse_xavier/</p>
 
 ###
 
